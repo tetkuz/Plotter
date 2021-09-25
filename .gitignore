@@ -1,0 +1,63 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/*
+!Library/com.unity.addressables
+!Library/AddressablesConfig.dat
+Library/com.unity.addressables/AddressablesBuildTEP.json
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+obj/
+bin/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# for others   #
+# ============ #
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
+.idea/
+*.bak
+*.bak.meta
+Thumbs.db.meta
+**/InitTestScene*
+TestRunner/
+Matterport_Photos_300/
+node_modules/
+
+# ==================== #
+# Jetbrain Rider Cache #
+# ==================== #
+Assets/Plugins/Editor/JetBrains*
+Assets/Plugins/Editor.meta
+build.log
+/Logs
+/Assets/Vuplex/WebView/Plugins/Windows/VuplexWebViewChromium/log-chromium.txt~
