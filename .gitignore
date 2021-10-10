@@ -4,6 +4,7 @@
 Temp/
 Obj/
 UnityGenerated/
+UserSettings/
 Library/*
 !Library/com.unity.addressables
 !Library/AddressablesConfig.dat
